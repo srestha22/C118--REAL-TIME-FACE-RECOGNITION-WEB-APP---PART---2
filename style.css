@@ -1,0 +1,53 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px grey;
+}
+.heading_div
+{
+    float: none ;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px red;
+}
+.heading_div2
+{
+    font-size: 18px;
+    background: red;
+}
+.result_para_tag
+{
+    font-size: 20px;
+    box-sizing: 5px 5px 5px skyblue;
+}
+.result_object_name{
+    font-size: medium;
+    background-color: orangered;
+}
+.result_object_accuracy {
+    font-size: medium;
+    background-color: orangered;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: lightsalmon;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border:5px solid red ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+    margin-top: 150px;
+}
